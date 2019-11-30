@@ -1,6 +1,6 @@
 {
-    "name": "@rappasoft/laravel-boilerplate",
-    "author": "rappasoft rappa819@gmail.com",
+    "name": "@RamesesLabs/insurance-agency-manager",
+    "author": "RamesesLabs rameseslabs@gmail.com",
     "private": true,
     "license": "MIT",
     "scripts": {
