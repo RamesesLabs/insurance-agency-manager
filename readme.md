@@ -3,8 +3,6 @@
 ### Built Using Laravel Boilerplate 
 
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
-![GitHub contributors](https://img.shields.io/github/contributors/rappasoft/laravel-boilerplate.svg)
-![GitHub stars](https://img.shields.io/github/stars/rappasoft/laravel-boilerplate.svg?style=social)
 
 ### Demo Credentials
 
@@ -41,7 +39,7 @@ If you would like to help the continued efforts of this project, any size via Ca
 
 ### License
 
-MIT: 
+MIT: General MIT License
 
 ### Getting Started
 This is simply a fork of the laravel-boilerplate repository with custom changes made to give developers doing insuance agencies a little further starting point than the original boilerplate repository does. 
